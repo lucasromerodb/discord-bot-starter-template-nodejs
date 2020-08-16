@@ -1,4 +1,10 @@
-# discord-bot
+# Discord bot starter template
+
+## Pre-requisites
+
+- [Node](https://nodejs.org/en/) (LTS recommended)
+- [VS Code](https://code.visualstudio.com/download) (or similar)
+- [Discord Server](https://support.discord.com/hc/en-us/articles/204849977-How-do-I-create-a-server-)
 
 ## Quick start
 
@@ -30,3 +36,11 @@ Then update the `BOT_TOKEN` with your real one in the `config.js` file.
 ```
 
 > You can reveal your private bot token in the `Bot` dashboard settings
+
+## Run your project
+
+```sh
+node index.js
+```
+
+> Now you can see your bot online on your Discord server
