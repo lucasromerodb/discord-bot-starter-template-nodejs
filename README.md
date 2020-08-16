@@ -45,6 +45,8 @@ node index.js
 
 > Now you can see your bot online on your Discord server
 
+---
+
 #### Discord JS
 
 * GitHub: https://github.com/discordjs/discord.js
