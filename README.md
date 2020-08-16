@@ -1,4 +1,4 @@
-# Discord bot starter template
+# Discord bot starter template (NodeJS)
 
 ## Pre-requisites
 
