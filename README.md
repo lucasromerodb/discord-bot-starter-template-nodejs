@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-- [Node](https://nodejs.org/en/) (LTS recommended)
+- [Node 12 or newer](https://nodejs.org/en/) (LTS recommended)
 - [VS Code](https://code.visualstudio.com/download) (or similar)
 - [Discord Server](https://support.discord.com/hc/en-us/articles/204849977-How-do-I-create-a-server-)
 
